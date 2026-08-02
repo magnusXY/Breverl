@@ -1,5 +1,3 @@
-Rondo is a tool for creating digital exhibits with minimal technical requirements. It is designed to support digital scholarship and digital humanities applications in the classroom, in the community, and in research environments.
-
-Rondo is inspired by minimal computing projects like Wax, but it takes a different technical approach. Rondo sites are single page applications, with content and data stored and edited in a single Google Sheet. You can create a new Rondo site in a few simple steps, without installing any software. Once you have completed your site, you can choose to use Rondo's localization tools to disconnect your site from its Google Sheet to create a simple, self-contained exhibit.
-
-[See the demo site](https://sjsu-library.github.io/rondo/)
+"Breverl" nannten Menschen vor einigen Jahrzehnten in Mitteleuropa eine Art von Amulett. Der Gebrauch war damals nicht unumstritten.
+Die vergessenen Zusammenhänge rundum diese Gegenstände will ich hier angehen und dabei alle Quellen zusammenstellen, damit alle die wollen sich ein eigenes Bild davon machen können, was es bedeutet haben mag, ein Breverl zu gebrauchen.
+Basierend auf dem minimal minimal computing project [Rondo](https://github.com/sjsu-library/rondo) kannst du hier die Zusammenstellung zu einer hypothetischen Seminararbeit im Bereich historischer Anthropologie ansehen. 
