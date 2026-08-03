@@ -33,7 +33,7 @@ article {
 
 }
 
-@media (max-width: 300px){
+@media (max-width: 991px){
   .diagram {
     transform: rotate(90deg);
     margin:30px auto;
