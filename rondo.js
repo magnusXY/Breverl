@@ -11,7 +11,7 @@ var overrideSource = spreadsheetID;
 
 /* Toggle remote:
    true  -> Google Sheets (Visualization API)
-   false -> Local Excel file (Breverl.xlsx) using XLSX
+   false -> Local Excel file (rondo.xlsx) using XLSX
 */
 var remote = true;
 
@@ -128,7 +128,7 @@ $(document).ready(function () {
       try {
         if (typeof XLSX === 'undefined') throw new Error('XLSX library not loaded.');
 
-        const res = await fetch('./Breverl.xlsx');
+        const res = await fetch('./rondo.xlsx');
         const buf = await res.arrayBuffer();
         const wb  = XLSX.read(buf, { type: 'array' });
 
