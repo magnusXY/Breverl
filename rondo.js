@@ -11,7 +11,7 @@ var overrideSource = spreadsheetID;
 
 /* Toggle remote:
    true  -> Google Sheets (Visualization API)
-   false -> Local Excel file (rondo.xlsx) using XLSX
+   false -> Local Excel file (Breverl.xlsx) using XLSX
 */
 var remote = true;
 
