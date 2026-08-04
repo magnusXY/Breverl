@@ -123,7 +123,7 @@ button.page-nav {
   width: 25%;
 }
 button.previous page {
-
+  margin-right: auto;
 }
 button.next page {
   margin-left: auto;
