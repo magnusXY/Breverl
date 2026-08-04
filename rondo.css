@@ -122,10 +122,10 @@ figure.hero {
 button.page-nav {
   width: 25%;
 }
-button.previous page {
-  margin-right: auto;
+button.previous-page {
+
 }
-button.next page {
+button.next-page {
   margin-left: auto;
 }
 
